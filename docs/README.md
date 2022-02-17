@@ -2,6 +2,11 @@
 
 WooCommerce Redirect To Page or URL on Add To Cart - Direct Checkout or Skip Cart plugin lets you redirect the user to a page on your website or internal/external URL on add-to-cart button. You can enable this redirection for all or selected products. You can also control add-to-cart button behavior - whether it adds product to cart or not, whether it shows "product has been added to cart" message or not. You can also change the add-to-cart button label for all or selected products for both archive (e.g. shop page) and single product pages regardless of whether redirection is turned on for it or not.
 
+### Some use cases:
+1. The default WooCommerce checkout flow expects user to navigate from shop/single-product page to cart page to checkout page. This navigation results in a slow and cumbersome checkout experience for the user and often makes the user leave your site without any purchase (a.k.a. abandoned cart). For these reason, you want to provide a faster checkout experience to your users by automatically redirecting them to the checkout page after the product is added to cart.
+2. You want user to fill out a form or read terms&conditions before/after the product is added to cart. You want to achieve it by redirecting the user to a purpose-built page on your website after add-to-cart button is clicked.
+3. You want to use an external checkout service - may be, you own multiple stores and want to redirect the user to the other store or you are an affiliate and want to earn commission on variable/grouped products by redirecting the user to external website.
+
 ### Features
 - For all or selected products
   - Enable redirection on add-to-cart button
